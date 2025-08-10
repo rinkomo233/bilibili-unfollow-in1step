@@ -187,8 +187,8 @@ async function batchUnfollow(maxPages = 1) {
 }
  
 // 使用示例
-// 处理1页内容
-batchUnfollow(1);
+// 处理5页内容
+batchUnfollow(15;
  
 // 如果要处理多页，可以这样调用：
 // batchUnfollow(5); // 处理5页
